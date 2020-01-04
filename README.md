@@ -4,10 +4,10 @@ Usando display lcd i2c para mostrar IP da porta wlan0, isso me ajuda quando prec
  <table>
   <tr>
     <th>
-        <img src="2.jpeg" alt="Girl in a jacket" width="350" height="250"> 
+        <img src="2.jpeg" alt="Girl in a jacket" width="350" height="450"> 
     </th>
     <th>
-        <img src="1.jpeg" alt="Girl in a jacket" width="350" height="250"> 
+        <img src="1.jpeg" alt="Girl in a jacket" width="350" height="450"> 
     </th>
   </tr>
   
